@@ -1,5 +1,13 @@
 <RCC>
     <qresource prefix="/">
         <file>main.qml</file>
+        <file>interface/ISubject.qml</file>
+        <file>interface/IObserver.qml</file>
+        <file>weather-o-rama/WeatherData.qml</file>
+        <file>weather-o-rama/CurrentConditionDisplay.qml</file>
+        <file>weather-o-rama/StatisticsDisplay.qml</file>
+        <file>weather-o-rama/ForecastDisplay.qml</file>
+        <file>weather-o-rama/BaseObserver.qml</file>
+        <file>Component/TextFieldLable.qml</file>
     </qresource>
 </RCC>

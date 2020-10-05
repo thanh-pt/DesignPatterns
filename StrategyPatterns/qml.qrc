@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Duck/BaseDuck.qml</file>
+        <file>Duck/Behavior/IQuackBehavior.qml</file>
+        <file>Duck/Behavior/QuackBehavior.qml</file>
+        <file>Duck/Behavior/QueakBehavior.qml</file>
+        <file>Duck/Behavior/SilentBehavior.qml</file>
+        <file>Duck/RedHeadDuck.qml</file>
+        <file>Duck/RubberDuck.qml</file>
+        <file>Duck/DecoyDuck.qml</file>
+    </qresource>
+</RCC>
